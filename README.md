@@ -23,7 +23,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 ### Links
 
 - Solution URL: [Solution](https://github.com/m07mmad-nasr/nft-preview-card-challenge-03)
-- Live Site URL: [Live Site](https://social-links-profile-challenge-02.vercel.app/)
+- Live Site URL: [Live Site](https://nft-preview-card-challenge-03.vercel.app/)
 
 ## My process
 
