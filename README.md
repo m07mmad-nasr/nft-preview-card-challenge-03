@@ -14,11 +14,11 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 #### Desktop
 
-![](<./127.0.0.1_5500_index.html%20(1).png>)
+![Desktop](<./127.0.0.1_5500_index.html%20(1).png>)
 
 #### Mobile
 
-![](<./127.0.0.1_5500_index.html(iPhone SE).png>)
+![Mobile](<./127.0.0.1_5500_index.html(iPhone SE).png>)
 
 ### Links
 
